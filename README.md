@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2600&pause=900&color=6AD3F7&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Adi+%F0%9F%91%8B;a+passionate+Software+Engineering+student;who%27s+interested+in+building+Java%2C+C%2C+AI-assisted+apps%2C+and+games)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2600&pause=900&color=6AD3F7&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Adi+%F0%9F%91%8B;a+passionate+Software+Engineering+student;interested+in+building+Java%2C+C%2C+AI-assisted+apps%2C+and+games)](https://git.io/typing-svg)
 
 **Software Engineering Part III · University of Auckland · New Zealand**
 
