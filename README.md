@@ -1,77 +1,42 @@
-<h1 align="center">Hi, I'm Aditeya Anand 👋</h1>
+<div align="center">
 
-<p align="center">
-  Software Engineering student at the University of Auckland  
-  <br />
-  Building projects across Java, C, AI-assisted apps, testing, and game logic.
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2600&pause=900&color=6AD3F7&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Adi+%F0%9F%91%8B;a+passionate+Software+Engineering+student;who%27s+interested+in+building+Java%2C+C%2C+AI-assisted+apps%2C+and+games)](https://git.io/typing-svg)
+
+**Software Engineering Part III · University of Auckland · New Zealand**
+
+[![GitHub](https://img.shields.io/badge/GitHub-yd35-181717?style=flat&logo=github&logoColor=white)](https://github.com/yd35)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditeya%20Anand-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditeya-a-169392385/)
+![](https://komarev.com/ghpvc/?username=yd35&style=flat&color=6AD3F7)
+
+</div>
 
 ---
 
 ## About me
 
-I'm a Part III Software Engineering student interested in building practical software with clean structure, useful features, and clear testing.
+```yaml
+Name     : Aditeya (Adi) Anand
+Role     : Software Engineering student @ University of Auckland
+Focus    : Java apps · C programming · testing · game logic · AI-assisted systems
+Currently: Building a public portfolio from selected academic and personal projects
+Next     : AI & Machine Learning coursework in the second half of the year
+Open to  : Collaborations, Internships, and Innovative Projects
+```
 
-My current projects cover:
-
-- Java CLI applications
-- JavaFX apps
-- AI-assisted game systems
-- graph traversal and route planning
-- automated testing with JUnit, Mockito, JaCoCo, and PIT
-- C console game development
-
-I'm currently building out this profile with selected academic and personal projects, cleaned up with proper READMEs and preserved commit history where relevant.
+I’m interested in building practical software with clean structure, useful features, and clear testing. My current projects cover Java CLI apps, JavaFX, graph traversal, automated testing, AI-assisted game systems, and C console game development.
 
 ---
 
 ## Featured projects
 
-### [Trial AI Game](https://github.com/yd35/trial-ai-game)
-
-A JavaFX narrative courtroom game created as a team academic project. It features AI-driven dialogue, puzzle-style investigation, timed decisions, and branching game logic.
-
-**Tech:** Java, JavaFX, Maven, AI proxy integration
-
----
-
-### [Robot Verbal Command Testing](https://github.com/yd35/robot-verbal-command-testing)
-
-A Java testing and quality-focused project built around a robot verbal-command service. The project focuses on unit testing, mocking, coverage, and mutation testing.
-
-**Tech:** Java, Maven, JUnit 5, Mockito, JaCoCo, PIT
-
----
-
-### [Country Route Planner](https://github.com/yd35/country-route-planner)
-
-A Java CLI project that models countries as a graph and computes shortest routes between them. It also reports travel-related details such as fuel costs and continent summaries.
-
-**Tech:** Java, Maven, JUnit 4, BFS, CSV data
-
----
-
-### [ColourGuessr AI Game](https://github.com/yd35/colourguessr-ai-game)
-
-A Java CLI colour-guessing game where the player competes against an AI opponent with difficulty-based strategies.
-
-**Tech:** Java, Maven, JUnit 4, strategy logic
-
----
-
-### [Activity Review Manager](https://github.com/yd35/activity-review-manager)
-
-A Java CLI management system for tourism/activity operators, activities, and public/private/expert reviews.
-
-**Tech:** Java, Maven, JUnit 4, CLI application design
-
----
-
-### [Sokoban Game](https://github.com/yd35/sokoban-game)
-
-A C console Sokoban-style puzzle game with box pushing, undo moves, room rendering, and win detection.
-
-**Tech:** C, console game logic, grid/state management
+| Project | Stack | What it shows |
+|---------|-------|---------------|
+| [**Trial AI Game**](https://github.com/yd35/trial-ai-game) | Java · JavaFX · Maven · AI proxy | Narrative courtroom game with AI-driven dialogue, puzzle-style investigation, timed decisions, and branching logic. |
+| [**Robot Verbal Command Testing**](https://github.com/yd35/robot-verbal-command-testing) | Java · JUnit 5 · Mockito · JaCoCo · PIT | Testing and quality-focused robot command service with unit tests, mocking, coverage, and mutation testing. |
+| [**Country Route Planner**](https://github.com/yd35/country-route-planner) | Java · Maven · BFS · CSV | Graph-based route planner that computes shortest country routes, fuel costs, and continent summaries. |
+| [**ColourGuessr AI Game**](https://github.com/yd35/colourguessr-ai-game) | Java · Maven · JUnit 4 | CLI colour-guessing game with difficulty-based AI strategies and scoring logic. |
+| [**Activity Review Manager**](https://github.com/yd35/activity-review-manager) | Java · Maven · JUnit 4 | CLI management system for tourism operators, activities, and public/private/expert reviews. |
+| [**Sokoban Game**](https://github.com/yd35/sokoban-game) | C · Console game logic | Sokoban-style puzzle game with box pushing, undo moves, room rendering, and win detection. |
 
 ---
 
@@ -80,28 +45,52 @@ A C console Sokoban-style puzzle game with box pushing, undo moves, room renderi
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat" />
   <img src="https://img.shields.io/badge/JavaFX-5382A1?style=flat" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" />
   <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white" />
   <img src="https://img.shields.io/badge/Mockito-78A641?style=flat" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## What I’m focusing on
+## Currently focusing on
 
-- writing cleaner, more maintainable code
-- improving project structure and documentation
-- building stronger full-stack and backend skills
-- expanding my portfolio with polished, public projects
-- learning through practical software projects
+```text
+☕  Cleaner Java project structure
+🧪  Unit testing, mocking, coverage, and mutation testing
+🧠  AI-assisted app and game systems
+🎮  Game logic, state management, and interactive CLI/GUI projects
+🗄️  Database fundamentals with MySQL
+🤖  Preparing for AI & Machine Learning coursework
+```
+
+<details>
+<summary>📈 GitHub stats</summary>
+
+<br />
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yd35&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yd35&theme=github_dark)
+
+</div>
+
+</details>
 
 ---
 
-## Contact
+<div align="center">
 
-- GitHub: [@yd35](https://github.com/yd35)
-- LinkedIn: [Aditeya (Adi) Anand](https://www.linkedin.com/in/aditeya-a-169392385/)
-- Location: New Zealand
+### Let’s connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-yd35-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yd35)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditeya%20Anand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditeya-a-169392385/)
+
+</div>
