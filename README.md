@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2600&pause=900&color=6AD3F7&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Adi+%F0%9F%91%8B;a+passionate+Software+Engineering+student;interested+in+building+Java%2C+C%2C+AI-assisted+apps%2C+and+games)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2600&pause=900&color=6AD3F7&center=true&vCenter=true&width=900&lines=Hey+I'm+Adi+%F0%9F%91%8B;a+passionate+Software+Engineering+student;interested+in+building+practical%2C+well-tested+software)](https://git.io/typing-svg)
 
 **Software Engineering Part III · University of Auckland · New Zealand**
 
@@ -42,19 +42,26 @@ I’m interested in building practical software with clean structure, useful fea
 
 ## Tech I’ve worked with
 
+**Main focus**
+
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat" />
   <img src="https://img.shields.io/badge/JavaFX-5382A1?style=flat" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" />
   <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white" />
   <img src="https://img.shields.io/badge/Mockito-78A641?style=flat" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+</p>
+
+**Used in coursework / projects**
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 </p>
 
 ---
