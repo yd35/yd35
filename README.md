@@ -23,7 +23,7 @@ Next     : AI & Machine Learning coursework in the second half of the year
 Open to  : Collaborations, Internships, and Innovative Projects
 ```
 
-I’m interested in building practical software with clean structure, useful features, and clear testing. My current projects cover Java CLI apps, JavaFX, graph traversal, automated testing, AI-assisted game systems, and C console game development.
+My current focus is on building practical software and improving my code quality through hands-on projects. I’m currently strengthening my Java development, testing, and problem-solving skills while building projects that are maintainable, reliable, and easy to extend.
 
 ---
 
