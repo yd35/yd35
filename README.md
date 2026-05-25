@@ -46,10 +46,11 @@ My current focus is on building practical software and improving my code quality
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaFX-5382A1?style=flat" />
+  <img src="https://img.shields.io/badge/JavaFX-5382A1?style=flat&logo=xml&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" />
   <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mockito-78A641?style=flat" />
+  <img src="https://img.shields.io/badge/Mockito-78A641?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/PIT-BF5B04?style=flat&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
@@ -58,9 +59,9 @@ My current focus is on building practical software and improving my code quality
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat" />
+  <img src="https://custom-icon-badges.demolab.com/badge/C%23-239120.svg?style=flat&logo=cshrp&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 </p>
 
