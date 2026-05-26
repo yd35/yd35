@@ -17,10 +17,10 @@
 ```yaml
 Name     : Aditeya (Adi) Anand
 Role     : Software Engineering student @ University of Auckland
-Focus    : Java apps · C programming · testing · game logic · AI-assisted systems
+Focus    : Java development · testing · project structure · practical software
 Currently: Building a public portfolio from selected academic and personal projects
 Next     : AI & Machine Learning coursework in the second half of the year
-Open to  : Collaborations, Internships, and Innovative Projects
+Open to  : Software internships, collaborations, and hands-on learning opportunities
 ```
 
 My current focus is on building practical software and improving my code quality through hands-on projects. I’m currently strengthening my Java development, testing, and problem-solving skills while building projects that are maintainable, reliable, and easy to extend.
